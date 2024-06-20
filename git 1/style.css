@@ -1,4 +1,7 @@
-h1{
-    background-color: black;
-    color: yellow;
+body{
+    background-color: rgb(114, 236, 161);
+}
+table, th, td {
+  border:1px solid black;
+  text-align: center;
 }
